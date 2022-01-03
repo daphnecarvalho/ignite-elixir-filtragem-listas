@@ -1,6 +1,29 @@
-# ListFilter
+# ListFilter - Challenge: Filtering in lists
 
-**TODO: Add description**
+Instructions: [Filtragem em listas](https://www.notion.so/Desafio-02-Filtragem-em-listas-87cf8190c3594fe59b2486c5b7df180c).
+
+## Tests
+Tests: 4 total
+## Project commands
+### Prepare project
+```bash
+  # Intall dependencies
+  mix deps.get
+```
+### Run project
+```bash
+  # Use interactive elixir
+  iex -S mix
+```
+
+### Run tests
+```bash
+  # Intall dependencies
+  mix test
+
+  # Check coverage of tests
+  mix test --cover
+```
 
 ## Installation
 
